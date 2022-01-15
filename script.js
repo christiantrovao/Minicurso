@@ -16,7 +16,6 @@ const especie2 = document.querySelector('#especie2');
 const condicao2 = document.querySelector('#status2');
 
 
-
 gerarValorAleatorio = () => {
     return Math.floor(Math.random() *671);
 }
